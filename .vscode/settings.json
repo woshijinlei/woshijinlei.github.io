@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.tree.indent": 12,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.quickOpen.closeOnFocusLost": true,
+    "editor.fontSize": 14, 
+    "editor.minimap.enabled": false
+}
